@@ -10,4 +10,3 @@ The Quantum Harmonic Oscillator: Solving via the algebraic method (Ladder operat
 Formalism: Hilbert space, Dirac notation (Bra-Ket formalism), Hermitian operators, and eigenvalues/eigenfunctions.The Generalized Statistical Interpretation and the Generalized Uncertainty Principle.
 Quantum Mechanics in Three Dimensions: Schrödinger equation in spherical coordinates: Angular equation (Spherical Harmonics) and the Radial equation.The Hydrogen Atom: Energy levels, orbital angular momentum, and radial wave functions.Spin angular momentum, Pauli spin matrices ($\sigma_x, \sigma_y, \sigma_z$), and the Stern-Gerlach experiment.
 Identical Particles: Two-particle systems, symmetric/antisymmetric wave functions, and the Pauli Exclusion Principle.Bosons vs. Fermions and an introduction to atoms, solids, and statistical mechanics.
-
